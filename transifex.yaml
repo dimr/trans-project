@@ -6,3 +6,4 @@ filters:
     source_file_dir: LC_MESSAGES/docs/gentle_gis_introduction/test/1/2/
     translation_files_expression: locale/<lang>/LC_MESSAGES/docs/gentle_gis_introduction/
 
+a
