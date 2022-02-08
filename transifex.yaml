@@ -1,10 +1,11 @@
-filters:
-  - filter_type: dir
-    file_format: html
-    source_file_extension: html
-    source_language: en
-    source_file_dir: LC_MESSAGES/docs/gentle_gis_introduction/test/1/2/
-    translation_files_expression: locale/<lang>/LC_MESSAGES/docs/gentle_gis_introduction/
+git:
+  filters:
+    - filter_type: dir
+      file_format: html
+      source_file_extension: html
+      source_language: en
+      source_file_dir: LC_MESSAGES/docs/gentle_gis_introduction/test/1/2/
+      translation_files_expression: locale/<lang>/LC_MESSAGES/docs/gentle_gis_introduction/
 
  
  
@@ -12,3 +13,27 @@ filters:
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+sdaf
