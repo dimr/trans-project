@@ -4,6 +4,6 @@ git:
       file_format: GITHUBMARKDOWN
       filter_type: dir
       source_file: README
-      source_file_dir: "."
+      source_file_dir: .
       source_language: en
-      translation_files_expression: locale/<lang>/LC_MESSAGES/docs/gentle_gis_introduction/
+      translation_files_expression: 'locale/<lang>/LC_MESSAGES/docs/gentle_gis_introduction/'
