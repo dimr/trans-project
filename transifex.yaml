@@ -1,9 +1,8 @@
 git:
   filters:
-    -file_format: GITHUBMARKDOWN
-      filter_type: file
+    - filter_type: file
+      file_format: GITHUBMARKDOWN
       source_file: README
       source_file_dir: .
       source_language: en
       translation_files_expression: 'locale/<lang>/LC_MESSAGES/docs/gentle_gis_introduction/'
-      
