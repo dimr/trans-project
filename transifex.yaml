@@ -1,8 +1,9 @@
 git:
   filters:
-    - filter_type: file
-      file_format: GITHUBMARKDOWN
-      source_file: README
-      source_file_dir: .
-      source_language: en
-      translation_files_expression: 'locale/<lang>/LC_MESSAGES/docs/gentle_gis_introduction/'
+  - filter_type: file
+    # all supported i18n types: https://docs.transifex.com/formats
+    file_format: GITHUBMARKDOWN
+    source_language: en 
+    source_file: README.md      
+    # path expression to translation files, must contain <lang> placeholder
+    translation_files_expression: 'path/to/<lang>/translation.po'
