@@ -1,25 +1,10 @@
-# trans-project
+# ονομα προτζεκτ
 
-<<<<<<< HEAD
-Μετεφρασε αυτό!Περισσότερες λέξεις
-=======
-Translate this!
-More words
-add a line
-added for an amended commit
-a change to force push
-xx line
-second force
-change
-xxx more
-last line
-test
+απογευμα εξτρα κειμενο
 
 
-NEW PROJECT
-feb
-sds
+καινουριο κεφαλαια
 
 
 νςο κιεμενο
->>>>>>> d12dec7516068137b8c93f72e67507252e8e72be
+
