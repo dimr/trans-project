@@ -1,7 +1,6 @@
 git:
   filters:
-    -
-      file_format: GITHUBMARKDOWN
+    -file_format: GITHUBMARKDOWN
       filter_type: file
       source_file: README
       source_file_dir: .
