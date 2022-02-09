@@ -6,3 +6,4 @@ git:
       #source_file_dir: .
       source_language: en
       translation_files_expression: 'locale/<lang>/translations/translation.po'
+      
