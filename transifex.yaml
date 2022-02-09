@@ -1,5 +1,5 @@
-filters:
-    -git:
+git:
+    filters:
         - filter_type: dir
         file_format: GITHUBMARKDOWN
         source_file: README
