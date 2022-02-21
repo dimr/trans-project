@@ -7,3 +7,4 @@ git:
     source_file: README.md
     # path expression to translation files, must contain <lang> placeholder
     translation_files_expression: 'path/to/<lang>/test.po'
+    
