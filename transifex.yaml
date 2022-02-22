@@ -7,7 +7,7 @@ git:
     source_file: README.md
     # path expression to translation files, must contain <lang> placeholder
     translation_files_expression: 'path/to/<lang>/test.po'
-    fdsasd
+    
 # filters:
 #   - filter_type: file
 #     # all supported i18n types: https://docs.transifex.com/formats
