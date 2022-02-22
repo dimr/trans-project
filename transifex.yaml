@@ -15,4 +15,4 @@ filters:
     source_language: en 
     source_file: README.md
     # path expression to translation files, must contain <lang> placeholder
-    translation_files_expression: 'path/to/<lang>/translation.po'
+    translation_files_expression: 'path/to/<lang>/translation.po' 
