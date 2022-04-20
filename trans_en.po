@@ -29,3 +29,6 @@ msgstr "These entries, called strings, are here to guide you through some of the
 
 msgid "Another string"
 msgstr "Another string"
+
+msgid "Last string"
+msgstr "Last string"
