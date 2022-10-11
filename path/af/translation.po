@@ -1,5 +1,7 @@
-# ονομα προτζεκτ που δε φαινεται
+# trans-project
 
-# απογευμα εξτρα κειμενο
+# translate this
 
-# fsdfsd
+# extra string
+
+# more text
