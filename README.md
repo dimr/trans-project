@@ -5,3 +5,4 @@
 # extra string
 
 # more text\nfdsfsd
+\nfdsfsd
