@@ -31,6 +31,3 @@
 # anothe string# one more string
 # one more string
 # one more string a
-# one more string ab
-# one more string vab
-# one more string vabc
