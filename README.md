@@ -1,5 +1,3 @@
-# trans-project
+# readme 1
 
-# translate this
-
-# extra string
+# readme 2
