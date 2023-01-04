@@ -8,7 +8,8 @@ git:
     # path expression to translation files, must contain <lang> placeholder
     translation_files_expression: 'path/<lang>/translation.po' 
      
-     
+
+
 
 
 # filters:  
