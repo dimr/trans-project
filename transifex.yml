@@ -14,4 +14,4 @@ git:
     source_language: en 
     source_file: test.md
     # path expression to translation files, must contain <lang> placeholder
-    translation_files_expression: test_translations/<lang>/translation.po'                     
+    translation_files_expression: 'test_translations/<lang>/translation.po'                     
