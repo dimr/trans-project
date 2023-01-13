@@ -17,10 +17,10 @@ git:
   #   translation_files_expression: 'test_translations/<lang>/translation.po'                     
 
 
-    - filter_type: file
-    # all supported i18n types: https://docs.transifex.com/formats
-    file_format: KEYVALUEJSON
-    source_language: en 
-    source_file: guardians_smart.json
-    # path expression to translation files, must contain <lang> placeholder
-    translation_files_expression: 'path/<lang>/translation.json' 
+  - filter_type: file
+  # all supported i18n types: https://docs.transifex.com/formats
+  file_format: KEYVALUEJSON
+  source_language: en 
+  source_file: guardians_smart.json
+  # path expression to translation files, must contain <lang> placeholder
+  translation_files_expression: 'path/<lang>/translation.json' 
