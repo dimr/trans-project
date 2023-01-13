@@ -27,4 +27,18 @@ git:
     # list of files to exclude from syncing
     ignore_files:
      - localeFolder/en/11.Fuzzy.po     
-   
+
+  - filter_type: dir
+    file_format: XLSX
+    source_file_extension: xlsx
+    source_language: en
+    source_file_dir: localeFolder/en
+    # path expression to translation files, must contain <lang> placeholder 
+    translation_files_expression: 'localeFolder/<lang>/LC_MESSAGES/'
+    # list of paths to exclude from syncing
+    ignore_dirs:
+     - localeFolder/en/excludeFolder1/
+     - localeFolder/en/excludeFolder2/
+    # list of files to exclude from syncing
+    ignore_files:
+     - localeFolder/en/01.File_Key_Context.xlsx     
