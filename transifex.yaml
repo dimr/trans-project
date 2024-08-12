@@ -2,9 +2,9 @@ git:
   filters:
   - filter_type: file
     # all supported i18n types: https://docs.transifex.com/formats
-    file_format: STRINGS_UTF8
+    file_format: XCSTRINGS
     source_language: en 
-    source_file: robin-en.strings
+    source_file: 200.04.05.xcstrings
     # path expression to translation files, must contain <lang> placeholder
     #translation_files_expression: 'path/to/<lang>/test.po' 
      

@@ -1,7 +1,0 @@
-/* "sample" = "Sample string format. Uncomment and modify with your module's string."; */
-
-
-//MARK: - Daily Movers
-"dailymovers.title" = "Top %@ daily movers";
-"dailymovers.subtitle" = "Crypto on Robinhood with the biggest price swings in the past 24 hours";
-"dailymovers.footer" = "Subject to state availability";
