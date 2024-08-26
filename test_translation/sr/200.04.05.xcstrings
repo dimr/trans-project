@@ -52,7 +52,7 @@
               "applewatch": {
                 "stringUnit": {
                   "state": "translated",
-                  "value": "This is an Apple Watch"
+                  "value": "This is an Apple Watch DIMITRIS"
                 }
               },
               "iphone": {
@@ -71,42 +71,6 @@
                 "stringUnit": {
                   "state": "translated",
                   "value": "This is a device"
-                }
-              }
-            }
-          }
-        },
-        "es": {
-          "variations": {
-            "device": {
-              "mac": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "Esto es un Mac"
-                }
-              },
-              "other": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "Se trata de un dispositivo"
-                }
-              },
-              "iphone": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "Se trata de un iPhone"
-                }
-              },
-              "applewatch": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "Esto es un Apple Watch"
-                }
-              },
-              "applevision": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "spanish22 DIMITRS"
                 }
               }
             }
@@ -143,6 +107,42 @@
                 "stringUnit": {
                   "state": "translated",
                   "value": "SERBkjnk22 DIMITRIS2"
+                }
+              }
+            }
+          }
+        },
+        "es": {
+          "variations": {
+            "device": {
+              "mac": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Esto es un Mac"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Se trata de un dispositivo"
+                }
+              },
+              "iphone": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Se trata de un iPhone"
+                }
+              },
+              "applewatch": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Esto es un Apple Watch"
+                }
+              },
+              "applevision": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "spanish22 DIMITRS2 XXXXXXX"
                 }
               }
             }
@@ -201,16 +201,16 @@
             "value": "This is a simple localizable string"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Se trata de una simple cadena localizable"
-          }
-        },
         "sr": {
           "stringUnit": {
             "state": "translated",
             "value": "This is a simple localizable string"
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Se trata de una simple cadena localizable"
           }
         },
         "ko_KR": {
@@ -260,30 +260,6 @@
             }
           }
         },
-        "es": {
-          "variations": {
-            "plural": {
-              "one": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "%ld usuario encontrado"
-                }
-              },
-              "other": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "%ld usuarios encontrados"
-                }
-              },
-              "many": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "%ld usuarios encontrados"
-                }
-              }
-            }
-          }
-        },
         "sr": {
           "variations": {
             "plural": {
@@ -303,6 +279,30 @@
                 "stringUnit": {
                   "state": "translated",
                   "value": "%ld user found"
+                }
+              }
+            }
+          }
+        },
+        "es": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%ld usuario encontrado"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%ld usuarios encontrados"
+                }
+              },
+              "many": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%ld usuarios encontrados"
                 }
               }
             }
@@ -421,66 +421,6 @@
             }
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Found %#@arg1@ having %#@arg2@"
-          },
-          "substitutions": {
-            "arg2": {
-              "argNum": 2,
-              "formatSpecifier": "ld",
-              "variations": {
-                "plural": {
-                  "one": {
-                    "stringUnit": {
-                      "state": "translated",
-                      "value": "%arg device"
-                    }
-                  },
-                  "many": {
-                    "stringUnit": {
-                      "state": "translated",
-                      "value": "%arg devices"
-                    }
-                  },
-                  "other": {
-                    "stringUnit": {
-                      "state": "translated",
-                      "value": "%arg devices"
-                    }
-                  }
-                }
-              }
-            },
-            "arg1": {
-              "argNum": 1,
-              "formatSpecifier": "ld",
-              "variations": {
-                "plural": {
-                  "one": {
-                    "stringUnit": {
-                      "state": "translated",
-                      "value": "%arg usuario"
-                    }
-                  },
-                  "many": {
-                    "stringUnit": {
-                      "state": "translated",
-                      "value": "%arg usuarios"
-                    }
-                  },
-                  "other": {
-                    "stringUnit": {
-                      "state": "translated",
-                      "value": "%arg usuarios"
-                    }
-                  }
-                }
-              }
-            }
-          }
-        },
         "sr": {
           "stringUnit": {
             "state": "translated",
@@ -534,6 +474,66 @@
                     "stringUnit": {
                       "state": "translated",
                       "value": "%arg users"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Found %#@arg1@ having %#@arg2@"
+          },
+          "substitutions": {
+            "arg2": {
+              "argNum": 2,
+              "formatSpecifier": "ld",
+              "variations": {
+                "plural": {
+                  "one": {
+                    "stringUnit": {
+                      "state": "translated",
+                      "value": "%arg device"
+                    }
+                  },
+                  "many": {
+                    "stringUnit": {
+                      "state": "translated",
+                      "value": "%arg devices"
+                    }
+                  },
+                  "other": {
+                    "stringUnit": {
+                      "state": "translated",
+                      "value": "%arg devices"
+                    }
+                  }
+                }
+              }
+            },
+            "arg1": {
+              "argNum": 1,
+              "formatSpecifier": "ld",
+              "variations": {
+                "plural": {
+                  "one": {
+                    "stringUnit": {
+                      "state": "translated",
+                      "value": "%arg usuario"
+                    }
+                  },
+                  "many": {
+                    "stringUnit": {
+                      "state": "translated",
+                      "value": "%arg usuarios"
+                    }
+                  },
+                  "other": {
+                    "stringUnit": {
+                      "state": "translated",
+                      "value": "%arg usuarios"
                     }
                   }
                 }
@@ -782,130 +782,6 @@
             }
           }
         },
-        "es": {
-          "variations": {
-            "device": {
-              "mac": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "This Mac contains %#@user_mac@ with %#@folder_mac@ "
-                }
-              },
-              "iphone": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "This iPhone contains %#@user_iphone@ with %#@folder_iphone@ "
-                }
-              }
-            }
-          },
-          "substitutions": {
-            "user_mac": {
-              "argNum": 1,
-              "formatSpecifier": "ld",
-              "variations": {
-                "plural": {
-                  "one": {
-                    "stringUnit": {
-                      "state": "translated",
-                      "value": "%arg user"
-                    }
-                  },
-                  "many": {
-                    "stringUnit": {
-                      "state": "translated",
-                      "value": "%arg users"
-                    }
-                  },
-                  "other": {
-                    "stringUnit": {
-                      "state": "translated",
-                      "value": "%arg users"
-                    }
-                  }
-                }
-              }
-            },
-            "folder_mac": {
-              "argNum": 2,
-              "formatSpecifier": "ld",
-              "variations": {
-                "plural": {
-                  "one": {
-                    "stringUnit": {
-                      "state": "translated",
-                      "value": "%arg folder"
-                    }
-                  },
-                  "many": {
-                    "stringUnit": {
-                      "state": "translated",
-                      "value": "%arg folders"
-                    }
-                  },
-                  "other": {
-                    "stringUnit": {
-                      "state": "translated",
-                      "value": "%arg folders"
-                    }
-                  }
-                }
-              }
-            },
-            "user_iphone": {
-              "argNum": 1,
-              "formatSpecifier": "ld",
-              "variations": {
-                "plural": {
-                  "one": {
-                    "stringUnit": {
-                      "state": "translated",
-                      "value": "%arg user"
-                    }
-                  },
-                  "many": {
-                    "stringUnit": {
-                      "state": "translated",
-                      "value": "%arg users"
-                    }
-                  },
-                  "other": {
-                    "stringUnit": {
-                      "state": "translated",
-                      "value": "%arg users"
-                    }
-                  }
-                }
-              }
-            },
-            "folder_iphone": {
-              "argNum": 2,
-              "formatSpecifier": "ld",
-              "variations": {
-                "plural": {
-                  "one": {
-                    "stringUnit": {
-                      "state": "translated",
-                      "value": "%arg folder"
-                    }
-                  },
-                  "many": {
-                    "stringUnit": {
-                      "state": "translated",
-                      "value": "%arg folders"
-                    }
-                  },
-                  "other": {
-                    "stringUnit": {
-                      "state": "translated",
-                      "value": "%arg folders"
-                    }
-                  }
-                }
-              }
-            }
-          }
-        },
         "sr": {
           "variations": {
             "device": {
@@ -1014,6 +890,130 @@
                     }
                   },
                   "few": {
+                    "stringUnit": {
+                      "state": "translated",
+                      "value": "%arg folders"
+                    }
+                  },
+                  "other": {
+                    "stringUnit": {
+                      "state": "translated",
+                      "value": "%arg folders"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "es": {
+          "variations": {
+            "device": {
+              "mac": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "This Mac contains %#@user_mac@ with %#@folder_mac@ "
+                }
+              },
+              "iphone": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "This iPhone contains %#@user_iphone@ with %#@folder_iphone@ "
+                }
+              }
+            }
+          },
+          "substitutions": {
+            "user_mac": {
+              "argNum": 1,
+              "formatSpecifier": "ld",
+              "variations": {
+                "plural": {
+                  "one": {
+                    "stringUnit": {
+                      "state": "translated",
+                      "value": "%arg user"
+                    }
+                  },
+                  "many": {
+                    "stringUnit": {
+                      "state": "translated",
+                      "value": "%arg users"
+                    }
+                  },
+                  "other": {
+                    "stringUnit": {
+                      "state": "translated",
+                      "value": "%arg users"
+                    }
+                  }
+                }
+              }
+            },
+            "folder_mac": {
+              "argNum": 2,
+              "formatSpecifier": "ld",
+              "variations": {
+                "plural": {
+                  "one": {
+                    "stringUnit": {
+                      "state": "translated",
+                      "value": "%arg folder"
+                    }
+                  },
+                  "many": {
+                    "stringUnit": {
+                      "state": "translated",
+                      "value": "%arg folders"
+                    }
+                  },
+                  "other": {
+                    "stringUnit": {
+                      "state": "translated",
+                      "value": "%arg folders"
+                    }
+                  }
+                }
+              }
+            },
+            "user_iphone": {
+              "argNum": 1,
+              "formatSpecifier": "ld",
+              "variations": {
+                "plural": {
+                  "one": {
+                    "stringUnit": {
+                      "state": "translated",
+                      "value": "%arg user"
+                    }
+                  },
+                  "many": {
+                    "stringUnit": {
+                      "state": "translated",
+                      "value": "%arg users"
+                    }
+                  },
+                  "other": {
+                    "stringUnit": {
+                      "state": "translated",
+                      "value": "%arg users"
+                    }
+                  }
+                }
+              }
+            },
+            "folder_iphone": {
+              "argNum": 2,
+              "formatSpecifier": "ld",
+              "variations": {
+                "plural": {
+                  "one": {
+                    "stringUnit": {
+                      "state": "translated",
+                      "value": "%arg folder"
+                    }
+                  },
+                  "many": {
                     "stringUnit": {
                       "state": "translated",
                       "value": "%arg folders"
@@ -1124,13 +1124,13 @@
             "value": "δοκιμή κειμένου"
           }
         },
-        "es": {
+        "sr": {
           "stringUnit": {
             "state": "translated",
             "value": "test string"
           }
         },
-        "sr": {
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "test string"
@@ -1184,7 +1184,7 @@
             }
           }
         },
-        "es": {
+        "sr": {
           "variations": {
             "plural": {
               "one": {
@@ -1193,7 +1193,7 @@
                   "value": "%d minute"
                 }
               },
-              "many": {
+              "few": {
                 "stringUnit": {
                   "state": "translated",
                   "value": "%d minutes"
@@ -1208,7 +1208,7 @@
             }
           }
         },
-        "sr": {
+        "es": {
           "variations": {
             "plural": {
               "one": {
@@ -1217,7 +1217,7 @@
                   "value": "%d minute"
                 }
               },
-              "few": {
+              "many": {
                 "stringUnit": {
                   "state": "translated",
                   "value": "%d minutes"
@@ -1286,7 +1286,7 @@
             }
           }
         },
-        "es": {
+        "sr": {
           "variations": {
             "plural": {
               "one": {
@@ -1295,7 +1295,7 @@
                   "value": "%u minute"
                 }
               },
-              "many": {
+              "few": {
                 "stringUnit": {
                   "state": "translated",
                   "value": "%u minutes"
@@ -1310,7 +1310,7 @@
             }
           }
         },
-        "sr": {
+        "es": {
           "variations": {
             "plural": {
               "one": {
@@ -1319,7 +1319,7 @@
                   "value": "%u minute"
                 }
               },
-              "few": {
+              "many": {
                 "stringUnit": {
                   "state": "translated",
                   "value": "%u minutes"
@@ -1423,6 +1423,48 @@
             }
           }
         },
+        "sr": {
+          "variations": {
+            "device": {
+              "mac": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Mac has %d items"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "We have %d items"
+                }
+              },
+              "iphone": {
+                "variations": {
+                  "plural": {
+                    "one": {
+                      "stringUnit": {
+                        "state": "translated",
+                        "value": "iPhone has %d item"
+                      }
+                    },
+                    "other": {
+                      "stringUnit": {
+                        "state": "translated",
+                        "value": "iPhone has %d items"
+                      }
+                    },
+                    "few": {
+                      "stringUnit": {
+                        "state": "translated",
+                        "value": "iPhone has %d items"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
         "es": {
           "variations": {
             "device": {
@@ -1448,48 +1490,6 @@
                       }
                     },
                     "many": {
-                      "stringUnit": {
-                        "state": "translated",
-                        "value": "iPhone has %d items"
-                      }
-                    },
-                    "other": {
-                      "stringUnit": {
-                        "state": "translated",
-                        "value": "iPhone has %d items"
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        },
-        "sr": {
-          "variations": {
-            "device": {
-              "mac": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "Mac has %d items"
-                }
-              },
-              "other": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "We have %d items"
-                }
-              },
-              "iphone": {
-                "variations": {
-                  "plural": {
-                    "one": {
-                      "stringUnit": {
-                        "state": "translated",
-                        "value": "iPhone has %d item"
-                      }
-                    },
-                    "few": {
                       "stringUnit": {
                         "state": "translated",
                         "value": "iPhone has %d items"
@@ -1614,48 +1614,6 @@
             }
           }
         },
-        "es": {
-          "variations": {
-            "device": {
-              "mac": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "Mac had %d items"
-                }
-              },
-              "other": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "We had %d items"
-                }
-              },
-              "iphone": {
-                "variations": {
-                  "plural": {
-                    "many": {
-                      "stringUnit": {
-                        "state": "translated",
-                        "value": "iPhone had %d items"
-                      }
-                    },
-                    "one": {
-                      "stringUnit": {
-                        "state": "translated",
-                        "value": "iPhone had %d item"
-                      }
-                    },
-                    "other": {
-                      "stringUnit": {
-                        "state": "translated",
-                        "value": "iPhone had %d items"
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        },
         "sr": {
           "variations": {
             "device": {
@@ -1680,13 +1638,55 @@
                         "value": "iPhone had %d items"
                       }
                     },
+                    "few": {
+                      "stringUnit": {
+                        "state": "translated",
+                        "value": "iPhone had %d items"
+                      }
+                    },
+                    "one": {
+                      "stringUnit": {
+                        "state": "translated",
+                        "value": "iPhone had %d item"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "es": {
+          "variations": {
+            "device": {
+              "mac": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Mac had %d items"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "We had %d items"
+                }
+              },
+              "iphone": {
+                "variations": {
+                  "plural": {
                     "one": {
                       "stringUnit": {
                         "state": "translated",
                         "value": "iPhone had %d item"
                       }
                     },
-                    "few": {
+                    "many": {
+                      "stringUnit": {
+                        "state": "translated",
+                        "value": "iPhone had %d items"
+                      }
+                    },
+                    "other": {
                       "stringUnit": {
                         "state": "translated",
                         "value": "iPhone had %d items"
