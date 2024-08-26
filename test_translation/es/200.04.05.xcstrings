@@ -46,7 +46,7 @@
               "applevision": {
                 "stringUnit": {
                   "state": "translated",
-                  "value": "This is Apple Vision"
+                  "value": "This is Apple Vision TEST"
                 }
               },
               "applewatch": {
@@ -106,7 +106,7 @@
               "applevision": {
                 "stringUnit": {
                   "state": "translated",
-                  "value": "spanish"
+                  "value": "spanish22 DIMITRS"
                 }
               }
             }
@@ -178,7 +178,7 @@
               "applevision": {
                 "stringUnit": {
                   "state": "translated",
-                  "value": "SERBkjnk"
+                  "value": "SERBkjnk22 DIMITRIS"
                 }
               }
             }
