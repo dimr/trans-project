@@ -76,42 +76,6 @@
             }
           }
         },
-        "es": {
-          "variations": {
-            "device": {
-              "mac": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "Esto es un Mac"
-                }
-              },
-              "other": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "Se trata de un dispositivo"
-                }
-              },
-              "iphone": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "Se trata de un iPhone"
-                }
-              },
-              "applewatch": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "Esto es un Apple Watch"
-                }
-              },
-              "applevision": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "Esto es Apple Vision"
-                }
-              }
-            }
-          }
-        },
         "sr": {
           "variations": {
             "device": {
@@ -142,7 +106,7 @@
               "applevision": {
                 "stringUnit": {
                   "state": "translated",
-                  "value": "SERB"
+                  "value": "SERBkjnk"
                 }
               }
             }
@@ -183,6 +147,42 @@
               }
             }
           }
+        },
+        "es": {
+          "variations": {
+            "device": {
+              "mac": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Esto es un Mac"
+                }
+              },
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Se trata de un dispositivo"
+                }
+              },
+              "iphone": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Se trata de un iPhone"
+                }
+              },
+              "applewatch": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Esto es un Apple Watch"
+                }
+              },
+              "applevision": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "Esto es Apple Vision"
+                }
+              }
+            }
+          }
         }
       }
     },
@@ -201,12 +201,6 @@
             "value": "This is a simple localizable string"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "Se trata de una simple cadena localizable"
-          }
-        },
         "sr": {
           "stringUnit": {
             "state": "translated",
@@ -217,6 +211,12 @@
           "stringUnit": {
             "state": "translated",
             "value": "현지화 가능한 간단한 문자열입니다."
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "Se trata de una simple cadena localizable"
           }
         }
       }
@@ -1124,12 +1124,6 @@
             "value": "δοκιμή κειμένου"
           }
         },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "test string"
-          }
-        },
         "sr": {
           "stringUnit": {
             "state": "translated",
@@ -1137,6 +1131,12 @@
           }
         },
         "ko_KR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "test string"
+          }
+        },
+        "es": {
           "stringUnit": {
             "state": "translated",
             "value": "test string"
@@ -1184,30 +1184,6 @@
             }
           }
         },
-        "es": {
-          "variations": {
-            "plural": {
-              "one": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "%d minute"
-                }
-              },
-              "many": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "%d minutes"
-                }
-              },
-              "other": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "%d minutes"
-                }
-              }
-            }
-          }
-        },
         "sr": {
           "variations": {
             "plural": {
@@ -1235,6 +1211,30 @@
         "ko_KR": {
           "variations": {
             "plural": {
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%d minutes"
+                }
+              }
+            }
+          }
+        },
+        "es": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%d minute"
+                }
+              },
+              "many": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%d minutes"
+                }
+              },
               "other": {
                 "stringUnit": {
                   "state": "translated",
@@ -1286,30 +1286,6 @@
             }
           }
         },
-        "es": {
-          "variations": {
-            "plural": {
-              "one": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "%u minute"
-                }
-              },
-              "many": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "%u minutes"
-                }
-              },
-              "other": {
-                "stringUnit": {
-                  "state": "translated",
-                  "value": "%u minutes"
-                }
-              }
-            }
-          }
-        },
         "sr": {
           "variations": {
             "plural": {
@@ -1337,6 +1313,30 @@
         "ko_KR": {
           "variations": {
             "plural": {
+              "other": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%u minutes"
+                }
+              }
+            }
+          }
+        },
+        "es": {
+          "variations": {
+            "plural": {
+              "one": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%u minute"
+                }
+              },
+              "many": {
+                "stringUnit": {
+                  "state": "translated",
+                  "value": "%u minutes"
+                }
+              },
               "other": {
                 "stringUnit": {
                   "state": "translated",
