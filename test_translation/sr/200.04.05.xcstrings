@@ -46,7 +46,7 @@
               "applevision": {
                 "stringUnit": {
                   "state": "translated",
-                  "value": "This is Apple Vision"
+                  "value": "This is Apple Vision TEST"
                 }
               },
               "applewatch": {
