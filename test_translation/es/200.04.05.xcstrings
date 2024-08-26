@@ -52,7 +52,7 @@
               "applewatch": {
                 "stringUnit": {
                   "state": "translated",
-                  "value": "This is an Apple Watch"
+                  "value": "This is an Apple Watch DIMITRIS"
                 }
               },
               "iphone": {
@@ -1519,13 +1519,13 @@
                         "value": "iPhone has %d item"
                       }
                     },
-                    "few": {
+                    "other": {
                       "stringUnit": {
                         "state": "translated",
                         "value": "iPhone has %d items"
                       }
                     },
-                    "other": {
+                    "few": {
                       "stringUnit": {
                         "state": "translated",
                         "value": "iPhone has %d items"
@@ -1632,16 +1632,16 @@
               "iphone": {
                 "variations": {
                   "plural": {
-                    "many": {
-                      "stringUnit": {
-                        "state": "translated",
-                        "value": "iPhone had %d items"
-                      }
-                    },
                     "one": {
                       "stringUnit": {
                         "state": "translated",
                         "value": "iPhone had %d item"
+                      }
+                    },
+                    "many": {
+                      "stringUnit": {
+                        "state": "translated",
+                        "value": "iPhone had %d items"
                       }
                     },
                     "other": {
@@ -1710,16 +1710,16 @@
                         "value": "iPhone had %d items"
                       }
                     },
-                    "one": {
-                      "stringUnit": {
-                        "state": "translated",
-                        "value": "iPhone had %d item"
-                      }
-                    },
                     "few": {
                       "stringUnit": {
                         "state": "translated",
                         "value": "iPhone had %d items"
+                      }
+                    },
+                    "one": {
+                      "stringUnit": {
+                        "state": "translated",
+                        "value": "iPhone had %d item"
                       }
                     }
                   }
