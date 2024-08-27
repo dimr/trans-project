@@ -8,19 +8,19 @@
         "en": {
           "stringUnit": {
             "state": "translated",
-            "value": "initial"
-          }
-        },
-        "el": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "el 1 INITIAL"
+            "value": "initial 22"
           }
         },
         "sq": {
           "stringUnit": {
             "state": "translated",
             "value": ""
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "el 1 INITIAL"
           }
         }
       }
@@ -34,16 +34,16 @@
             "value": "contact@mail.com"
           }
         },
-        "el": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "el 2222"
-          }
-        },
         "sq": {
           "stringUnit": {
             "state": "translated",
             "value": ""
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "el 2222"
           }
         }
       }
