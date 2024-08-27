@@ -8,19 +8,19 @@
         "en": {
           "stringUnit": {
             "state": "translated",
-            "value": "fsdfs111345666777"
-          }
-        },
-        "sq": {
-          "stringUnit": {
-            "state": "translated",
-            "value": ""
+            "value": "initial 22"
           }
         },
         "el": {
           "stringUnit": {
             "state": "translated",
-            "value": "el 1"
+            "value": "el 1 INITIAL"
+          }
+        },
+        "sq": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "initial 22"
           }
         }
       }
@@ -34,16 +34,16 @@
             "value": "contact@mail.com"
           }
         },
-        "sq": {
-          "stringUnit": {
-            "state": "translated",
-            "value": ""
-          }
-        },
         "el": {
           "stringUnit": {
             "state": "translated",
-            "value": "el 2222"
+            "value": "el 2222 INITIAL EL COMMIT"
+          }
+        },
+        "sq": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "contact@mail.com"
           }
         }
       }
