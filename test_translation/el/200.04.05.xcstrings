@@ -1,0 +1,52 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "about_us": {
+      "extractionState": "stale",
+      "comment": "This is a simple key and value",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "fsdfs"
+          }
+        },
+        "sq": {
+          "stringUnit": {
+            "state": "translated",
+            "value": ""
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "el 1"
+          }
+        }
+      }
+    },
+    "contact_email": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "contact@mail.com"
+          }
+        },
+        "sq": {
+          "stringUnit": {
+            "state": "translated",
+            "value": ""
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "el 2"
+          }
+        }
+      }
+    }
+  }
+}
