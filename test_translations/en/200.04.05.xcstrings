@@ -1,34 +1,52 @@
- {
-            "sourceLanguage": "en",
-            "strings": {
-                "about_us": {
-                    "extractionState": "stale",
-                    "comment": "This is a simple key and value",
-                    "localizations": {
-                        "en": {
-                            "stringUnit": {
-                                "state": "translated",
-                                "value": "fsdfs"
-                            }
-                        }
-            
-                    }
-                },
-                "contact_email": {
-                    "extractionState": "stale",
-                    "localizations": {
-                        "en": {
-                            "stringUnit": {
-                                "state": "translated",
-                                "value": "contact@mail.com"
-                            }
-                        }
-                        
-                        
-             
- 
-                    }
-                }
-            }
-            }
-           
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "about_us": {
+      "extractionState": "stale",
+      "comment": "This is a simple key and value",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "fsdfs111345"
+          }
+        },
+        "sq": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "fsdfs111345"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "el 1"
+          }
+        }
+      }
+    },
+    "contact_email": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "contact@mail.com"
+          }
+        },
+        "sq": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "contact@mail.com"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "el 2222"
+          }
+        }
+      }
+    }
+  }
+}
