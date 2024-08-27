@@ -20,6 +20,24 @@
         "sq": {
           "stringUnit": {
             "state": "translated",
+            "value": ""
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "initial 22"
+          }
+        },
+        "sr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "initial 22"
+          }
+        },
+        "ko_KR": {
+          "stringUnit": {
+            "state": "translated",
             "value": "initial 22"
           }
         }
@@ -41,6 +59,24 @@
           }
         },
         "sq": {
+          "stringUnit": {
+            "state": "translated",
+            "value": ""
+          }
+        },
+        "es": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "contact@mail.com"
+          }
+        },
+        "sr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "contact@mail.com"
+          }
+        },
+        "ko_KR": {
           "stringUnit": {
             "state": "translated",
             "value": "contact@mail.com"
