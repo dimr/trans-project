@@ -11,16 +11,16 @@
             "value": "fsdfs111345666777"
           }
         },
-        "el": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "el 1"
-          }
-        },
         "sq": {
           "stringUnit": {
             "state": "translated",
             "value": ""
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "el 1"
           }
         }
       }
@@ -34,16 +34,16 @@
             "value": "contact@mail.com"
           }
         },
-        "el": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "el 2222"
-          }
-        },
         "sq": {
           "stringUnit": {
             "state": "translated",
             "value": ""
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "el 2222"
           }
         }
       }
