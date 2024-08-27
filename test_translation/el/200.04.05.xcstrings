@@ -82,31 +82,31 @@
               "mac": {
                 "stringUnit": {
                   "state": "translated",
-                  "value": "This is a Mac"
+                  "value": ""
                 }
               },
               "other": {
                 "stringUnit": {
                   "state": "translated",
-                  "value": "This is a device"
+                  "value": ""
                 }
               },
               "iphone": {
                 "stringUnit": {
                   "state": "translated",
-                  "value": "This is an iPhone"
+                  "value": ""
                 }
               },
               "applewatch": {
                 "stringUnit": {
                   "state": "translated",
-                  "value": "This is an Apple Watch"
+                  "value": ""
                 }
               },
               "applevision": {
                 "stringUnit": {
                   "state": "translated",
-                  "value": "This is Apple Vision"
+                  "value": ""
                 }
               }
             }
@@ -132,7 +132,7 @@
         "sq": {
           "stringUnit": {
             "state": "translated",
-            "value": "This is a simple localizable string"
+            "value": ""
           }
         }
       }
@@ -182,13 +182,13 @@
               "one": {
                 "stringUnit": {
                   "state": "translated",
-                  "value": "%ld users found"
+                  "value": ""
                 }
               },
               "other": {
                 "stringUnit": {
                   "state": "translated",
-                  "value": "%ld users found"
+                  "value": ""
                 }
               }
             }
@@ -298,7 +298,7 @@
         "sq": {
           "stringUnit": {
             "state": "translated",
-            "value": "Found %#@arg1@ having %#@arg2@"
+            "value": ""
           },
           "substitutions": {
             "arg1": {
@@ -309,13 +309,13 @@
                   "one": {
                     "stringUnit": {
                       "state": "translated",
-                      "value": "%arg users"
+                      "value": ""
                     }
                   },
                   "other": {
                     "stringUnit": {
                       "state": "translated",
-                      "value": "%arg users"
+                      "value": ""
                     }
                   }
                 }
@@ -329,13 +329,13 @@
                   "one": {
                     "stringUnit": {
                       "state": "translated",
-                      "value": "%arg devices"
+                      "value": ""
                     }
                   },
                   "other": {
                     "stringUnit": {
                       "state": "translated",
-                      "value": "%arg devices"
+                      "value": ""
                     }
                   }
                 }
@@ -554,13 +554,13 @@
               "mac": {
                 "stringUnit": {
                   "state": "translated",
-                  "value": "This Mac contains %#@user_mac@ with %#@folder_mac@ "
+                  "value": ""
                 }
               },
               "iphone": {
                 "stringUnit": {
                   "state": "translated",
-                  "value": "This iPhone contains %#@user_iphone@ with %#@folder_iphone@ "
+                  "value": ""
                 }
               }
             }
@@ -574,13 +574,13 @@
                   "one": {
                     "stringUnit": {
                       "state": "translated",
-                      "value": "%arg users"
+                      "value": ""
                     }
                   },
                   "other": {
                     "stringUnit": {
                       "state": "translated",
-                      "value": "%arg users"
+                      "value": ""
                     }
                   }
                 }
@@ -594,13 +594,13 @@
                   "one": {
                     "stringUnit": {
                       "state": "translated",
-                      "value": "%arg folders"
+                      "value": ""
                     }
                   },
                   "other": {
                     "stringUnit": {
                       "state": "translated",
-                      "value": "%arg folders"
+                      "value": ""
                     }
                   }
                 }
@@ -614,13 +614,13 @@
                   "one": {
                     "stringUnit": {
                       "state": "translated",
-                      "value": "%arg users"
+                      "value": ""
                     }
                   },
                   "other": {
                     "stringUnit": {
                       "state": "translated",
-                      "value": "%arg users"
+                      "value": ""
                     }
                   }
                 }
@@ -634,13 +634,13 @@
                   "one": {
                     "stringUnit": {
                       "state": "translated",
-                      "value": "%arg folders"
+                      "value": ""
                     }
                   },
                   "other": {
                     "stringUnit": {
                       "state": "translated",
-                      "value": "%arg folders"
+                      "value": ""
                     }
                   }
                 }
@@ -669,7 +669,7 @@
         "sq": {
           "stringUnit": {
             "state": "translated",
-            "value": "test string"
+            "value": ""
           }
         }
       }
@@ -720,13 +720,13 @@
               "one": {
                 "stringUnit": {
                   "state": "translated",
-                  "value": "%d minutes"
+                  "value": ""
                 }
               },
               "other": {
                 "stringUnit": {
                   "state": "translated",
-                  "value": "%d minutes"
+                  "value": ""
                 }
               }
             }
@@ -780,13 +780,13 @@
               "one": {
                 "stringUnit": {
                   "state": "translated",
-                  "value": "%u minutes"
+                  "value": ""
                 }
               },
               "other": {
                 "stringUnit": {
                   "state": "translated",
-                  "value": "%u minutes"
+                  "value": ""
                 }
               }
             }
@@ -875,13 +875,13 @@
               "mac": {
                 "stringUnit": {
                   "state": "translated",
-                  "value": "Mac has %d items"
+                  "value": ""
                 }
               },
               "other": {
                 "stringUnit": {
                   "state": "translated",
-                  "value": "We have %d items"
+                  "value": ""
                 }
               },
               "iphone": {
@@ -890,13 +890,13 @@
                     "one": {
                       "stringUnit": {
                         "state": "translated",
-                        "value": "iPhone has %d items"
+                        "value": ""
                       }
                     },
                     "other": {
                       "stringUnit": {
                         "state": "translated",
-                        "value": "iPhone has %d items"
+                        "value": ""
                       }
                     }
                   }
@@ -988,13 +988,13 @@
               "mac": {
                 "stringUnit": {
                   "state": "translated",
-                  "value": "Mac had %d items"
+                  "value": ""
                 }
               },
               "other": {
                 "stringUnit": {
                   "state": "translated",
-                  "value": "We had %d items"
+                  "value": ""
                 }
               },
               "iphone": {
@@ -1003,13 +1003,13 @@
                     "one": {
                       "stringUnit": {
                         "state": "translated",
-                        "value": "iPhone had %d items"
+                        "value": ""
                       }
                     },
                     "other": {
                       "stringUnit": {
                         "state": "translated",
-                        "value": "iPhone had %d items"
+                        "value": ""
                       }
                     }
                   }
