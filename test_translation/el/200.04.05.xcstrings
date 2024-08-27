@@ -8,37 +8,19 @@
         "en": {
           "stringUnit": {
             "state": "translated",
-            "value": "fsdfs111345666777"
+            "value": "initial"
           }
         },
         "el": {
           "stringUnit": {
             "state": "translated",
-            "value": "el 1"
+            "value": "el 1 INITIAL"
           }
         },
         "sq": {
           "stringUnit": {
             "state": "translated",
             "value": ""
-          }
-        },
-        "ko_KR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "fsdfs111345666777"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "fsdfs111345666777"
-          }
-        },
-        "sr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "fsdfs111345666777"
           }
         }
       }
@@ -62,24 +44,6 @@
           "stringUnit": {
             "state": "translated",
             "value": ""
-          }
-        },
-        "ko_KR": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "contact@mail.com"
-          }
-        },
-        "es": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "contact@mail.com"
-          }
-        },
-        "sr": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "contact@mail.com"
           }
         }
       }
