@@ -14,13 +14,13 @@
         "el": {
           "stringUnit": {
             "state": "translated",
-            "value": "el 1 INITIAL"
+            "value": "el 1 INITIAL 432423"
           }
         },
         "sq": {
           "stringUnit": {
             "state": "translated",
-            "value": "initial 22"
+            "value": ""
           }
         }
       }
@@ -43,7 +43,7 @@
         "sq": {
           "stringUnit": {
             "state": "translated",
-            "value": "contact@mail.com"
+            "value": ""
           }
         }
       }
