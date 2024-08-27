@@ -8,13 +8,13 @@
         "en": {
           "stringUnit": {
             "state": "translated",
-            "value": "fsdfs111345666777"
+            "value": "initial 22"
           }
         },
         "el": {
           "stringUnit": {
             "state": "translated",
-            "value": "el 1"
+            "value": "el 1 INITIAL"
           }
         },
         "sq": {
@@ -37,7 +37,7 @@
         "el": {
           "stringUnit": {
             "state": "translated",
-            "value": "el 2222"
+            "value": "el 2222 INITIAL EL COMMIT"
           }
         },
         "sq": {
