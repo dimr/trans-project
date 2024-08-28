@@ -11,16 +11,34 @@
             "value": "commit fix 2"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "el 1 INITIAL 432423"
+          }
+        },
         "sq": {
           "stringUnit": {
             "state": "translated",
             "value": ""
           }
         },
-        "el": {
+        "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "el 1 INITIAL 432423"
+            "value": "commit fix 2"
+          }
+        },
+        "ko_KR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "commit fix 2"
+          }
+        },
+        "sr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "commit fix 2"
           }
         }
       }
@@ -34,16 +52,34 @@
             "value": "contact@mail.com"
           }
         },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "el 2222 INITIAL EL COMMIT"
+          }
+        },
         "sq": {
           "stringUnit": {
             "state": "translated",
             "value": ""
           }
         },
-        "el": {
+        "es": {
           "stringUnit": {
             "state": "translated",
-            "value": "el 2222 INITIAL EL COMMIT"
+            "value": "contact@mail.com"
+          }
+        },
+        "ko_KR": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "contact@mail.com"
+          }
+        },
+        "sr": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "contact@mail.com"
           }
         }
       }
