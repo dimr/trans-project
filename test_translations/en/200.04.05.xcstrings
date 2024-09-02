@@ -11,16 +11,16 @@
             "value": "commit fix 2XXXXXXxsdwsazzzzzZZZZsa"
           }
         },
+        "sq": {
+          "stringUnit": {
+            "state": "translated",
+            "value": ""
+          }
+        },
         "el": {
           "stringUnit": {
             "state": "translated",
             "value": "xXXXXXfe"
-          }
-        },
-        "sq": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "cewdqwdqwdwq"
           }
         }
       }
@@ -34,16 +34,16 @@
             "value": "contact@mail.com FOR ALBAN"
           }
         },
-        "el": {
-          "stringUnit": {
-            "state": "translated",
-            "value": "el 2222 INITIAL EL COMMIT"
-          }
-        },
         "sq": {
           "stringUnit": {
             "state": "translated",
             "value": "ALBANSdsds"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "el 2222 INITIAL EL COMMIT"
           }
         }
       }
