@@ -8,13 +8,13 @@
         "en": {
           "stringUnit": {
             "state": "translated",
-            "value": "commit fix 2"
+            "value": "commit fix 2XXXXXX"
           }
         },
         "el": {
           "stringUnit": {
             "state": "translated",
-            "value": "xXXXXX"
+            "value": "xXXXXXfe"
           }
         },
         "sq": {
@@ -31,7 +31,7 @@
         "en": {
           "stringUnit": {
             "state": "translated",
-            "value": "contact@mail.com"
+            "value": "contact@mail.com FOR ALBAN"
           }
         },
         "el": {
@@ -43,7 +43,7 @@
         "sq": {
           "stringUnit": {
             "state": "translated",
-            "value": ""
+            "value": "ALBANSdsds"
           }
         }
       }
