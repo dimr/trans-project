@@ -1,0 +1,52 @@
+{
+  "sourceLanguage": "en",
+  "strings": {
+    "about_us": {
+      "extractionState": "stale",
+      "comment": "This is a simple key and value",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "commit fix 2"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "xXXXXX STAGIN"
+          }
+        },
+        "sq": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "jg"
+          }
+        }
+      }
+    },
+    "contact_email": {
+      "extractionState": "stale",
+      "localizations": {
+        "en": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "contact@mail.com"
+          }
+        },
+        "el": {
+          "stringUnit": {
+            "state": "translated",
+            "value": "el 2222 INITIAL EL COMMIT"
+          }
+        },
+        "sq": {
+          "stringUnit": {
+            "state": "translated",
+            "value": ""
+          }
+        }
+      }
+    }
+  }
+}
