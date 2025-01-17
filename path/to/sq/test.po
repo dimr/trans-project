@@ -1,0 +1,10 @@
+{"This is string number 1.": "o;jh",
+"This is string number 2.": "dfsaf",
+"This is string number 3.": "dasf",
+"This is string number 4.": "dfasdf",
+"This is string number 5.": "fsd",
+"This is string number 6.": "fsdfcv",
+"This is string number 7.": "fgsd",
+"This is string number 8.": "vcass",
+"This is string number 9.": "3e98euij",
+"This is string number 10.": "fweolk"}
