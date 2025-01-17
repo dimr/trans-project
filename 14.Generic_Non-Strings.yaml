@@ -1,0 +1,71 @@
+  simple key1: 234 
+  simple key2: 2.343
+  simple key3: {ASF}
+  simple key4: ~
+  simple key5: !
+  simple key6: []
+  simple key7: --
+  simple key8: #
+  simple key9: null
+
+
+  nestedkey1:
+  # This is a comment for nested keys
+    nested_key10: _
+    nested_key11: (
+    nested_key12: )
+
+  nestedkey2:
+  # This is a comment for nested keys
+  # two lines.
+    nested_key13: +
+    nested_key14: ??
+    nested_key15: ^
+
+  nestedkey3:
+  # This is a comment for nested keys
+  # two lines.
+    nested_key16: $
+    nested_key17: #
+    nested_key18: \
+
+
+  # block sequences
+  block_sequence_key1:
+    - $n
+    - .
+    - /
+  block_sequence_key2:
+    - ::
+    - ;
+    - <
+    
+  block_sequence_key3:
+    - =
+    - >
+    - ?
+    - \n
+    - \t
+    - \f
+    - \r
+    - null
+
+  # flow sequences
+  flow_sequence_key1: [flow seq list element 1, 'flow seq single quote list element 2', "flow seq double quote list element 3"]
+  flow_sequence_key2: [flow seq list element 1, 'flow seq single quote list element 2', "flow seq double quote list element 3"]
+  flow_sequence_key3: [flow seq list element 4, 'flow seq single quote list element 5', "flow seq double quote list element 6"]
+
+  # nested sequences
+  key1:
+    - nestedseqkey1:
+      - simple nested seq element 1
+      - 'single quote nested seq element 2'
+      - "double quote nested seq element 3"
+    - nestedseqkey1:
+      - simple nested seq element 1
+      - 'single quote nested seq element 2'
+      - "double quote nested seq element 3"
+    - nestedseqkey1:
+      - simple nested seq element 4
+      - 'single quote nested seq element 5'
+      - "double quote nested seq element 6"
