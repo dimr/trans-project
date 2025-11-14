@@ -1,0 +1,28 @@
+name: Enforce Branch Naming Convention
+
+on:
+  push:
+    branches: ["**"]  # Run on push to any branch
+
+jobs:
+  check-branch-name:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get branch name
+        id: get_branch
+        run: |
+          BRANCH_NAME="${GITHUB_REF#refs/heads/}"
+          echo "Branch name is: $BRANCH_NAME"
+          echo "branch_name=$BRANCH_NAME" >> $GITHUB_OUTPUT
+
+      - name: Enforce at most one slash in branch name
+        run: |
+          BRANCH_NAME="${{ steps.get_branch.outputs.branch_name }}"
+          # Count the number of slashes
+          SLASHES=$(echo "$BRANCH_NAME" | awk -F'/' '{print NF-1}')
+          if [ "$SLASHES" -gt 1 ]; then
+            echo "❌ Branch name '$BRANCH_NAME' is invalid. It must contain at most one forward slash (e.g., 'feature/my-feature' or 'myfeature')."
+            exit 1
+          else
+            echo "✅ Branch name '$BRANCH_NAME' is valid."
+          fi
